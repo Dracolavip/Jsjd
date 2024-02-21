@@ -59,10 +59,11 @@ async def ping_fallen(_, message: Message):
                 [
                     InlineKeyboardButton("ՏᑌᑭᑭOᖇT", url=config.SUPPORT_CHAT),
                     InlineKeyboardButton(
-                        "ՏOᑌᖇᑕᗴ TᗴTO",
-                        url="https://t.me/wx_pm",
+                        "ՏOᑌᖇᑕᗴ ᗰᗩᑎO",
+                        url="https://t.me/IQIOn",
                     ),
                 ],
             ]
         ),
     )
+    
