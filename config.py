@@ -19,7 +19,7 @@ START_IMG = getenv("START_IMG", "https://telegra.ph/file/1ec3d81dccec214225b72.j
 SESSION = getenv("SESSION", None)
 
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/t7_au")
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/wx_pm")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/IQIOn")
 
 SUDO_USERS = list(map(int, getenv("SUDO_USERS", "6730935472").split()))
 
