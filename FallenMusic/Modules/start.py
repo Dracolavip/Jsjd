@@ -82,7 +82,7 @@ async def fallen_st(_, message: Message):
                 )
         else:
             await message.reply_photo(
-                photo=config.START_IMG,
+                photo=config.START_video,
                 caption=PM_START_TEXT.format(
                     message.from_user.first_name,
                     BOT_MENTION,
