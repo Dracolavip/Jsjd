@@ -1,24 +1,22 @@
-# MIT License
-#
-# Copyright (c) 2023 AnonymousX1025
-#
-# Permission is hereby granted, free of charge, to any person obtaining a copy
-# of this software and associated documentation files (the "Software"), to deal
-# in the Software without restriction, including without limitation the rights
-# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-# copies of the Software, and to permit persons to whom the Software is
-# furnished to do so, subject to the following conditions:
-#
-# The above copyright notice and this permission notice shall be included in all
-# copies or substantial portions of the Software.
-#
-# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-# SOFTWARE.
+# ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+# ▒▒▒▗▉████████████▅▒▒▒▒▒▗██████████▄▒▒▒▄█████████▖▒▒▒▒▒▒▒▒▒▅████████▄▒▒▒▒▒▒▒▒▒▒
+# ▒▒▒▝██████████████▒▒▒▒▒███████████▀▒▒▒███▒▒▒▒▒▒███▒▒▒▒▒▒▒██▘▒▒▒▒▒▒▝██▒▒▒▒▒▒▒▒
+# ▒▒▒▒▒▒▒▒▒▒▒▒▒▒███▘▒▒▒▒▒███▒▒▒▒▒▒▒▒▒▒▒▒███▒▒▄█▄▒▒███▒▒▒▒███▘▒▒▒██▒▒▒▝███▒▒▒▒▒▒▒
+# ▒▒▒▒▒▒▒▒▒▒▒▒▒███▘▒▒▒▒▒▒███▒▒▒▒▒▒▒▒▒▒▒▒███▒▒███▒▒███▒▒▒███▒▒▒▅████▄▒▒▒███▒▒▒▒▒▒
+# ▒▒▒▒▒▒▒▒▒▒▒▒███▘▒▒▒▒▒▒▒███▒▒▒▒▒▒▒▒▒▒▒▒███▒▒▀█▀▒▒███▒▒▒███▒▒▒██████▒▒▒███▒▒▒▒▒▒
+# ▒▒▒▒▒▒▒▒▒▒▒███▘▒▒▒▒▒▒▒▒███▒▒▒▒▒▒▒▒▒▒▒▒███▒▒▒▒▒▒███▒▒▒▒███▒▒▒██████▒▒▒███▒▒▒▒▒▒
+# ▒▒▒▒▒▒▒▒▒▒███▘▒▒▒▒▒▒▒▒▒█████████▖▒▒▒▒▒██████████▀▒▒▒▒▒███▒▒▒██████▒▒▒███▒▒▒▒▒▒
+# ▒▒▒▒▒▒▒▒▒███▘▒▒▒▒▒▒▒▒▒▒█████████▘▒▒▒▒▒███████▀▀▀▒▒▒▒▒▒███▒▒▒██████▒▒▒███▒▒▒▒▒▒
+# ▒▒▒▒▒▒▒▒███▘▒▒▒▒▒▒▒▒▒▒▒███▒▒▒▒▒▒▒▒▒▒▒▒███▒▒▒███▒▒▒▒▒▒▒███▒▒▒██████▒▒▒███▒▒▒▒▒▒
+# ▒▒▒▒▒▒▒██▉▘▒▒▒▒▒▒▒▒▒▒▒▒███▒▒▒▒▒▒▒▒▒▒▒▒███▒▒▒▒███▒▒▒▒▒▒███▒▒▒██████▒▒▒███▒▒▒▒▒▒
+# ▒▒▒▒▒▒███▘▒▒▒▒▒▒▒▒▒▒▒▒▒███▒▒▒▒▒▒▒▒▒▒▒▒███▒▒▒▒▒███▒▒▒▒▒▒███▒▒▒████▒▒▒███▒▒▒▒▒▒▒
+# ▒▒▒▒▒███▘▒▒▒▒▒▒▒▒▒▒▒▒▒▒███▒▒▒▒▒▒▒▒▒▒▒▒███▒▒▒▒▒▒███▒▒▒▒▒▒██▄▒▒▒██▒▒▒▄██▒▒▒▒▒▒▒▒
+# ▒▒▒▗███████████████▅▒▒▒███████████▄▒▒▒███▒▒▒▒▒▒▒███▒▒▒▒▒▒██▖▒▒▒▒▒▒▗██▒▒▒▒▒▒▒▒▒
+# ▒▒▒▀███████████████▀▒▒▒▝██████████▀▒▒▒███▒▒▒▒▒▒▒▒███▒▒▒▒▒▒▒▀███████▀▒▒▒▒▒▒▒▒▒▒
+# ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+# 𝐃𝐞𝐩𝐥𝐨𝐲𝐞𝐝 𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥𝐲 
+# (𝐂) 𝟐𝟎𝟐𝟒-𝟐𝟎𝟐𝟓 𝐛𝐲: @ToxVeGa
+# (𝐂) 𝟐𝟎𝟐𝟒-𝟐𝟎𝟐𝟓 𝐛𝐲: @TopVeGa
 
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
@@ -45,10 +43,10 @@ buttons = InlineKeyboardMarkup(
             )
             ],
             [
-            InlineKeyboardButton("⦿ 𓏺ՏOᑌᖇᑕᗴ ᗰᗩᑎO ⦿", url=f"https://t.me/IQIOn"),
+            InlineKeyboardButton("⦿ 𓏺ＳＯＵＲＣＥ ＤＲＡＣＵＬＡ ⦿", url=f"https://t.me/D_A_003"),
             ],
             [
-            InlineKeyboardButton(text="⦿ ᗪᗴᐯᗴᒪOᑭᗴᖇ ⦿", user_id=config.OWNER_ID),
+            InlineKeyboardButton(text="⦿ ⧛⚠Dʀᴀᴄᴜʟᴀ℡𑲭𑲭𑲭𑲭⚚^メ ⦿", user_id=config.OWNER_ID),
         ]
     ]
 )
@@ -63,12 +61,12 @@ pm_buttons = [
     ],
     [InlineKeyboardButton(text="⦿ اوامـر التشغيل ⦿", callback_data="fallen_help")],
     [
-        InlineKeyboardButton(text="⦿ ՏOᑌᖇᑕᗴ ᗰᗩᑎO ⦿", url=config.SUPPORT_CHANNEL),
+        InlineKeyboardButton(text="⦿ ＳＯＵＲＣＥ ＤＲＡＣＵＬＡ ⦿", url=config.SUPPORT_CHANNEL),
         InlineKeyboardButton(text="⦿ ՏᑌᑭᑭOᖇT ⦿", url=config.SUPPORT_CHAT),
     ],
     [
         InlineKeyboardButton(
-            text="⦿ ᗪᗴᐯᗴᒪOᑭᗴᖇ ⦿", url="https://t.me/Mano2005700000000000000000000000"
+            text="⦿ ⧛⚠Dʀᴀᴄᴜʟᴀ℡𑲭𑲭𑲭𑲭⚚^メ ⦿", url="https://t.me/D_AA_1"
         ),
         InlineKeyboardButton(text="⦿ Oᗯᑎᗴᖇ ⦿", user_id=config.OWNER_ID),
     ],
@@ -83,12 +81,12 @@ gp_buttons = [
         )
     ],
     [
-        InlineKeyboardButton(text="⦿ ՏOᑌᖇᑕᗴ ᗰᗩᑎO ⦿", url=config.SUPPORT_CHANNEL),
+        InlineKeyboardButton(text="⦿ ＳＯＵＲＣＥ ＤＲＡＣＵＬＡ ⦿", url=config.SUPPORT_CHANNEL),
         InlineKeyboardButton(text="⦿ ՏᑌᑭᑭOᖇT ⦿", url=config.SUPPORT_CHAT),
     ],
     [
         InlineKeyboardButton(
-            text="⦿ ᗪᗴᐯᗴᒪOᑭᗴᖇ ⦿", url="https://t.me/Mano2005700000000000000000000000"
+            text="⦿ ⧛⚠Dʀᴀᴄᴜʟᴀ℡𑲭𑲭𑲭𑲭⚚^メ ⦿", url="https://t.me/D_AA_1"
         ),
         InlineKeyboardButton(text="⦿ Oᗯᑎᗴᖇ ⦿", user_id=config.OWNER_ID),
     ],
