@@ -10,7 +10,6 @@ from pyrogram.enums import ChatMemberStatus
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, ReplyKeyboardMarkup
 
 from FallenMusic import app
-from telegraph import upload_file
 from asyncio import gather
 from pyrogram.errors import FloodWait
 
