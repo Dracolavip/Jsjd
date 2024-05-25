@@ -81,8 +81,8 @@ async def fallen_st(_, message: Message):
                     reply_markup=key,
                 )
         else:
-            await message.reply_photo(
-                photo=config.START_video,
+            await message.reply_video(
+                video=config.START_video,
                 caption=PM_START_TEXT.format(
                     message.from_user.first_name,
                     BOT_MENTION,
