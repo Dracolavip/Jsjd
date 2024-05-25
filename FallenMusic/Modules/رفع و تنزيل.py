@@ -33,7 +33,7 @@ import string
 import lyricsgenius as lg
 from pyrogram.types import (InlineKeyboardButton, ChatPermissions, InlineKeyboardMarkup, Message, User)
 from pyrogram import Client, filters
-from FallenMusic import (Apple, Resso, SoundCloud, Spotify, Telegram, YouTube, app)
+
 from typing import Union
 import sys
 import os

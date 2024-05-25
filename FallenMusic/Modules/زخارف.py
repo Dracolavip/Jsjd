@@ -6,7 +6,7 @@ from config import OWNER_ID
 from FallenMusic.misc import SUDOERS
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message, ReplyKeyboardMarkup
 from pyrogram.types import (InlineKeyboardButton,CallbackQuery,InlineKeyboardMarkup, Message)
-from FallenMusic import (Apple, Resso, SoundCloud, Spotify, Telegram, YouTube, app)
+
 
 
 @app.on_message(filters.command(["زخارف","الزخارف","✨زخارف"], ""))
