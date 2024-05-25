@@ -8,7 +8,6 @@ import datetime
 from pytz import timezone
 from pyrogram import filters
 from pyrogram import Client
-from FallenMusic.core.call import Anony
 from pyrogram.enums import ChatMemberStatus
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, ReplyKeyboardMarkup
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, ReplyKeyboardMarkup
