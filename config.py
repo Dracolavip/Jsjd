@@ -13,8 +13,8 @@ DURATION_LIMIT = int(getenv("DURATION_LIMIT", "360"))
 
 OWNER_ID = int(getenv("OWNER_ID"))
 
-PING_IMG = getenv("PING_IMG", "https://telegra.ph/file/1ec3d81dccec214225b72.jpg")
-START_IMG = getenv("START_IMG", "https://telegra.ph/file/1ec3d81dccec214225b72.jpg")
+PING_IMG = getenv("PING_IMG", "https://telegra.ph/file/1c198ce7e477a1424fbad.jpg")
+START_IMG = getenv("START_IMG", "https://telegra.ph/file/1c198ce7e477a1424fbad.jpg")
 
 SESSION = getenv("SESSION", None)
 
@@ -24,4 +24,4 @@ SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/D_A_003")
 SUDO_USERS = list(map(int, getenv("SUDO_USERS", "6586941458").split()))
 
 
-FAILED = "https://telegra.ph/file/1ec3d81dccec214225b72.jpg"
+FAILED = "https://telegra.ph/file/1c198ce7e477a1424fbad.jpg"
