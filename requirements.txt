@@ -16,6 +16,7 @@ beautifulsoup4
 dnspython
 ffmpeg-python
 gitpython
+pytz
 hachoir
 heroku3
 motor
