@@ -23,7 +23,7 @@ pillow
 psutil
 py-tgcalls
 pykeyboard
-pyrogram==2.0.106
+pyrogram
 python-dotenv
 pyyaml
 requests
