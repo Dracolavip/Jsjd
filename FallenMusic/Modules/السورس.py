@@ -39,7 +39,7 @@ from pyrogram.errors import FloodWait
 async def huhh(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/1c198ce7e477a1424fbad.jpg",
-        caption=f"""╭═★⊷⌯⧼[ＳＯＵＲＣＥ ＤＲＡＣＵＬＡ](https://t.me/D_A_003)⧽⌯⊶★═╮\n★‹ [ＳＯＵＲＣＥ ＤＲＡＣＵＬＡ](https://t.me/D_A_003)\n★‹ [𝐀𝐒𝗞 𝗧𝐎 𝐌𝗘](https://t.me/D_AA_1)\n★‹ [᥆𝗋α𝖻𝗒>_𝗌𝗍α𝗋](https://t.me/D_AA_1)\n★‹ [𝐓𝐎.𝐌𝐄](https://t.me/OU_ll1)\n╰═★⊷⌯⧼[ＳＯＵＲＣＥ ＤＲＡＣＵＬＡ](https://t.me/D_A_003)⧽⌯⊶★═╯""",
+        caption=f"""╭═★⊷⌯⧼[ＳＯＵＲＣＥ ＤＲＡＣＵＬＡ](https://t.me/D_A_003)⧽⌯⊶★═╮\n★‹ [ＳＯＵＲＣＥ ＤＲＡＣＵＬＡ](https://t.me/D_A_003)\n★‹ [𝐀𝐒𝗞 𝗧𝐎 𝐌𝗘](https://t.me/D_AA_1)\n★‹ [⧛⚠Dʀᴀᴄᴜʟᴀ℡𑲭𑲭𑲭𑲭⚚^メ](https://t.me/D_AA_1)\n★‹ [𝐓𝐎.𝐌𝐄](https://t.me/OU_ll1)\n╰═★⊷⌯⧼[ＳＯＵＲＣＥ ＤＲＡＣＵＬＡ](https://t.me/D_A_003)⧽⌯⊶★═╯""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
