@@ -15,7 +15,6 @@ from pyrogram.types import Message, CallbackQuery, InlineKeyboardMarkup, InlineK
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 
 from FallenMusic import app
-from telegraph import upload_file
 from asyncio import gather
 from pyrogram.errors import FloodWait
 
