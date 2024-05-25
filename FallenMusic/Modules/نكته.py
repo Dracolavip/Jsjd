@@ -4,7 +4,7 @@ from strings.filters import command
 from pyrogram.enums import ParseMode, ChatMemberStatus
 from config import OWNER_ID
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
-from FallenMusic import app, Telegram
+from FallenMusic import app
 import random
 
 
